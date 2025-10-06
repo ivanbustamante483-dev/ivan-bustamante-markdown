@@ -1,7 +1,7 @@
 # Mi primera pagina en Markdown
-Hola, soy **Nombre Apellido** y esta es mi primera pra ctica de Digitalizacion.
+Hola, soy **Iván Bustamante** y esta es mi primera práctica de Digitalizacion.
 ## ¿Que he aprendido hoy?
-- Diferencia entre digitalizacion y transformacio n digital.
+- Diferencia entre digitalizacion y transformación digital.
 - Ejemplos como DHL.
 - Cómo usar Markdown en GitHub.
 > La tecnología cambia la forma en que trabajamos y aprendemos.
